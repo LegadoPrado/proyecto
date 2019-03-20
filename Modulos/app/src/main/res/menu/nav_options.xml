@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/inicio"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/inicio"/>
+    <item android:id="@+id/ordenes"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        android:title="@string/ordenes"/>
+    <item android:id="@+id/reportes"
+        android:icon="@drawable/ic_report_black_24dp"
+        android:title="@string/reportes"/>
+</group>
+    <item android:title="@string/configuracion">
+    <menu>
+        <item
+            android:id="@+id/configuraciones"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/configuracion"/>
+    </menu>
+    </item>
+</menu>

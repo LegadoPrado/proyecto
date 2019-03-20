@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtGrande">22sp</dimen>
+    <dimen name="txtNormal">20sp</dimen>
+    <dimen name="camdoFigwidth">80dp</dimen>
+    <dimen name="camdoFigheight">60dp</dimen>
+    <dimen name="txtpequenio">18sp</dimen>
+    <dimen name="spinnerCompleto">320dp</dimen>
+    <dimen name="tvCompleto">280dp</dimen>
+</resources>
